@@ -4,7 +4,7 @@ int main()
 	{
 	  int cost,dif,total=0;
 	  float p=50;
-	  scanf("%d %d",&cost,&p);
+	  scanf("%d %f",&cost,&p);
 	  while(cost>=1)
 	    {
 	    total=total+cost;
